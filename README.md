@@ -4,7 +4,7 @@
 
 ## Description
 
-The Ghost Recon breakpoint landing page is a static generated accessable site using the **Next js framework**. And uses **SASS with a BEM approach** for the styling of this page. All of the data used in this prototype is consumed from an **external JSON file**.
+The Ghost Recon breakpoint landing page is a static generated accessable and responsive site using the **Next js framework**. And uses **SASS with a BEM approach** for the styling of this page. All of the data used in this prototype is consumed from an **external JSON file**.
 
 ## Tech Stack
 
