@@ -1,5 +1,7 @@
 # Ghost Recon breakpoint - prototype landing page
 
+![Desktop and mobile screenshots of Ghost recon breakpoint prototype site](https://www.mikehappythoughts.co.uk/gitimages/ghost.jpg)
+
 ## Description
 
 The Ghost Recon breakpoint landing page is a static generated accessable site using the **Next js framework**. And uses **SASS with a BEM approach** for the styling of this page. All of the data used in this prototype is consumed from an **external JSON file**.
