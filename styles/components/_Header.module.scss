@@ -1,0 +1,34 @@
+@use "../variables.module" as *;
+
+.c-header {
+	position: relative;
+	background-color: black;
+
+	&__content {
+		position: relative;
+		height: 90px;
+		display: flex;
+		justify-content: center;
+		padding: 5px 0;
+	}
+
+	&__skip-to-content {
+		display: block;
+		position: absolute;
+		top: -1000px;
+		left: 0;
+		cursor: pointer;
+		background-color: $primary;
+		border-bottom: 1px solid $black;
+		padding: 16px;
+
+		&:focus {
+			position: absolute;
+			top: 0;
+			left: 0;
+			color: $black;
+			outline-color: $w;
+			z-index: 100;
+		}
+	}
+}

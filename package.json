@@ -1,0 +1,20 @@
+{
+	"name": "ninjalist",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build && next export",
+		"start": "next start"
+	},
+	"dependencies": {
+		"@zeit/next-sass": "^1.0.1",
+		"bigpicture": "^2.6.1",
+		"bootstrap-4-grid": "^3.4.0",
+		"classnames": "^2.3.1",
+		"next": "10.0.4",
+		"react": "17.0.1",
+		"react-dom": "17.0.1",
+		"sass": "^1.49.0"
+	}
+}

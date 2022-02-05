@@ -1,0 +1,46 @@
+{
+	"gameInfo": [
+		{
+			"imageSrc": "/images/classes.jpg",
+			"heading": "classes",
+			"content": "Classes are a new addition to the Ghost Recon game system. Each class comes with a special ability which the player can activate by pressing L1 + R1 together on the controller. Each class has a rank system from 1 to 10. For certain completed tasks you will receive special rewards. When you have completed all the ranks you will be rewarded with a special weapon for that class."
+		},
+		{
+			"imageSrc": "/images/gear-level.jpg",
+			"heading": "gear level",
+			"content": "Gear level to put it simply is based on the gear level of your clothes and weapons. Your gear level is important as the enemies have gear levels. If your gear level is lower than the enemies then it will be a hard battle. But not impossible to complete. But if your gear level is higher than the enemies then it will be a lot easier to defeat the enemies. Scattered around the world are items which will increase your level. Just equip the weapon and clothes to increase your gear level."
+		},
+		{
+			"imageSrc": "/images/weapons.jpg",
+			"heading": "weapons",
+			"content": "Weapons are scattered throughout the world. They are located in boxes, dropped by dead enemies, created using blueprints or given as rewards. All weapons come with unique perks so read the perks very carefully."
+		}
+	],
+
+	"gameVideos": [
+		{
+			"ariaLabel": "classes",
+			"imageSrc": "video1.jpg",
+			"heading": "Classes video",
+			"ytId": "ZXZL7FQHKfk"
+		},
+		{
+			"ariaLabel": "gear level",
+			"imageSrc": "video2.jpg",
+			"heading": "Gear level video",
+			"ytId": "KAKXQxg3Geg"
+		},
+		{
+			"ariaLabel": "weapons",
+			"imageSrc": "video3.jpg",
+			"heading": "Weapons video",
+			"ytId": "wD4o7XLAurQ"
+		},
+		{
+			"ariaLabel": "gameplay",
+			"imageSrc": "video4.jpg",
+			"heading": "Gameplay video",
+			"ytId": "o5p19E0SCq0"
+		}
+	]
+}

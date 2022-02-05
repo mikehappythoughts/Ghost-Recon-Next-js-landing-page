@@ -1,0 +1,22 @@
+@use "../variables.module" as *;
+
+.c-fiftyFifty {
+	margin-bottom: 20px;
+
+	&__image {
+		position: relative;
+	}
+
+	&__btn {
+		padding: 10px 13px;
+		color: $black;
+		background-color: $primary;
+		cursor: pointer;
+
+		&:hover,
+		&:focus {
+			outline-color: $w;
+			background-color: darken($color: $primary, $amount: 5%);
+		}
+	}
+}

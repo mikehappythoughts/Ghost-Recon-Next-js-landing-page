@@ -1,0 +1,10 @@
+@use "../node_modules/bootstrap-4-grid/scss/grid/bootstrap-grid";
+
+@use "Base.module.scss";
+
+// components
+@use "./components/FiftyFifty.module.scss";
+@use "./components/VideoBlock.module.scss";
+@use "./components/Footer.module.scss";
+@use "./components/Header.module.scss";
+@use "./components/Hero.module.scss";
