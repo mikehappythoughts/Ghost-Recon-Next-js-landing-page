@@ -1,6 +1,6 @@
 # Ghost Recon breakpoint - prototype landing page
 
-![Desktop and mobile screenshots of Ghost recon breakpoint prototype site](https://www.mikehappythoughts.co.uk/gitimages/ghost.jpg)
+![Desktop and mobile screenshots of Ghost recon breakpoint prototype site](https://www.mikehappythoughts.co.uk/gitimages/ghost1.jpg)
 
 ## Description
 
